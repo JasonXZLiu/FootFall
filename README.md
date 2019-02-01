@@ -15,9 +15,3 @@ Website
     <li>animate.css</li>
     <li>Superfish</li>
 </ul>
-
-Android Application
-<ul>
-    <li>Java</li>
-    <li>XML</li>
-</ul>
